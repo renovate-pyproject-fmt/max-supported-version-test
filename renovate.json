@@ -1,6 +1,7 @@
 {
   "extends": [
     "config:best-practices",
+    "github>renovate-scientific-python/renovate-scientific-python-spec-0",
     "github>renovate-pyproject-fmt/max-supported-version"
   ]
 }
