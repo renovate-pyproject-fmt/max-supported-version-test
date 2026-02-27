@@ -6,4 +6,4 @@ readme = "README.md"
 requires-python = ">=3.10"
 
 [tool.pyproject-fmt]
-max-supported-version = "3.11"
+max-supported-version = "3.14"
